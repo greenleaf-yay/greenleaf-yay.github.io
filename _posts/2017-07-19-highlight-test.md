@@ -32,8 +32,8 @@ end
 ```
 
 {% highlight ruby %}
-def foo
-  puts 'foo'
+WebView webView;
+webView = (WebView)findViewById(R.id.webView);
 end
 {% endhighlight %}
 
